@@ -2,6 +2,11 @@
 
 This project is a full-stack web application designed to help users decide their next career move by allowing them to select between job, MS, and MBA options. The frontend is built using React.js and deployed on Firebase, while the backend server is built using Express.js and hosted on Render. The data is stored in a MongoDB Atlas database.
 
+### Accessing the Application
+
+The application is accessible via the following URL:
+[https://choiceapp-6281d.web.app](https://choiceapp-6281d.web.app)
+
 ## Features
 
 - Collects user input including name and choice (job, MS, or MBA)
@@ -102,11 +107,6 @@ Create a `.env` file in the `server` directory and add the following:
 
 2. **Deploy the backend to Render:**
    - Follow the instructions on Render to deploy your server.
-
-### Accessing the Application
-
-The application is accessible via the following URL:
-[https://choiceapp-6281d.web.app](https://choiceapp-6281d.web.app)
 
 ## Usage
 
